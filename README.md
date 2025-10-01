@@ -1,9 +1,13 @@
-# 🌊 HydroSnap – Secure River Water Level Monitoring
-
-![License](https://img.shields.io/github/license/your-username/hydrosnap)
-![Build](https://img.shields.io/github/actions/workflow/status/your-username/hydrosnap/ci.yml?label=Build)
+![License](https://img.shields.io/github/license/mohsinansari0705/SIH2025-HydroSnap)
+![Build](https://img.shields.io/github/actions/workflow/status/mohsinansari0705/SIH2025-HydroSnap/ci.yml?label=Build)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Tech](https://img.shields.io/badge/Made%20with-Android%20%7C%20FastAPI%20%7C%20Postgres%20%7C%20OpenCV-blue)
+
+# 🌊 HydroSnap – Secure River Water Level Monitoring
+
+<p align="center">
+  <img src="assets/HydroSnap_logo.png" alt="AI_HealthCare_Chatbot logo" heigt=500 width=500>
+</p>
 
 ---
 
@@ -66,3 +70,19 @@ flowchart TD
     G --> H[Tamper Detection & Alerts]
     H --> I[Supervisor Dashboard]
     I --> J[Central Analysis & Forecasting]
+```
+
+---
+
+## 👥 Team: GrayCode
+
+| Name            | Role                          |
+|-----------------|-------------------------------|
+| [`Mohsin Ansari`](https://github.com/mohsinansari0705)   | Model Integrtion & Backend |
+| [`Rohit Yadav`](https://github.com/RohityadavGG)     | Data & Visualizations       |
+| [`Ayush`](https://github.com/ayush-code303)     | Backend Development       |
+| [`Prerna Verma`](https://github.com/prerna-verma29)     | UI/UX       |
+| [`Payal Katara`](https://github.com/Payal-katara)     | UI/UX & R&D       |
+| [`Kunal Singh`](https://github.com/Kunal-Singh76)     | Testing & Reporting       |
+
+---
